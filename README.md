@@ -26,25 +26,12 @@ A client-side JavaScript mod for **Jellyfin** that replaces the default media ba
 
 ### Option A — Jellyfin Custom Script (recommended)
 
-1. In your Jellyfin admin panel go to **Dashboard → General → Custom CSS / Scripts**.
+1. In your Jellyfin admin panel go to **Dashboard → Java Script Injector**.
 2. Paste the full contents of `mediabar-mod.js` into the **Custom JavaScript** field.
 3. Save and reload the page.
 
-### Option B — Browser Extension (Tampermonkey / Violentmonkey)
 
-1. Install [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
-2. Create a new script and paste the contents of `mediabar-mod.js`.
-3. Add the following header at the top:
-
-```js
-// ==UserScript==
-// @name         Jellyfin Media Bar Mod
-// @match        http://YOUR-JELLYFIN-URL/*
-// @grant        none
-// ==/UserScript==
-```
-
-4. Save and navigate to your Jellyfin instance.
+3. Save and navigate to your Jellyfin instance.
 
 ---
 
