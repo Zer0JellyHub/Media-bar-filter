@@ -21,6 +21,13 @@ A client-side JavaScript mod for **Jellyfin** that replaces the default media ba
 | 💾 **Per-User Persistence** | All settings saved to `localStorage`, scoped per Jellyfin user ID |
 
 ---
+Preview
+
+<img width="1440" height="788" alt="Bildschirmfoto 2026-05-16 um 19 39 58" src="https://github.com/user-attachments/assets/588f0863-9780-411b-963e-8b0dba1d9ae6" />
+<img width="1440" height="783" alt="Bildschirmfoto 2026-05-16 um 19 27 40" src="https://github.com/user-attachments/assets/76f8c41c-73cd-4880-8383-faf6806958d0" />
+
+
+---
 
 ## 📦 Installation
 
